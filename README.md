@@ -3,7 +3,7 @@
 
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-aggxx.vercel.app/api?username=aggxx&title_color=FFAE8F&bg_color=0D1117&icon_color=FFAE8F&border_color=FFAE8F&text_color=fff" />
+  <img align="center" src="https://github-readme-stats-aggxx.vercel.app/api?username=aggxx&title_color=FFAE8F&bg_color=0D1117&icon_color=FFAE8F&border_color=FFAE8F&text_color=fff&custom_title=Adora's Github Stats"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
